@@ -1,3 +1,18 @@
 h1{
-    color: greenyellow;
+  
+}
+#esay{background-color: chartreuse;
+
+}
+.header-area{
+    display: flex;
+}
+.right-side{
+    width: 50%;
+    margin: 5px;
+}
+.left-side{
+    width: 50%;
+    margin-right: 200px;
+    padding-right: 200px;
 }
